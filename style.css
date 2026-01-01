@@ -390,7 +390,7 @@ header p{
 
     .main-div2{
         top: 60%;         
-        right: 45%;
+        right: 40%;
         transform: translate(50%, -50%);
         width: 85%;
     }
@@ -989,4 +989,5 @@ footer a:hover::after{
   
 
   
+
 
